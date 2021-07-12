@@ -14,6 +14,10 @@ fun evenNumberDetection()
     {
         print("It is an even number")
     }
+    else
+    {
+        print("It is not an even number!")
+    }
 }
 
 fun oddnumberdetector()
